@@ -12,7 +12,7 @@ Only about **1.8%** of students in HarvardX's 2012–13 online courses earned a 
 
 ## Data
 
-- HarvardX person-course records (2012–13): **20,582 enrollments**, 5 courses
+- Online Course User Engagement Data (HarvardX person-course records, 2012–13): 20,582 enrollments, 5 courses
 - Target: `passed` (derived from `certified`), 365 positives (1.77%)
 - Features: course, country, gender, education level, year of birth, events, active days, videos played, chapters accessed, forum posts, active duration
 
