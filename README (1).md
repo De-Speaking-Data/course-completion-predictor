@@ -3,6 +3,7 @@
 A machine learning app that estimates whether an online-course student will earn a certificate, based on their engagement with the course.
 
 **🔗 Live demo:** https://course-completion-predictor-gi9xkr9muggpcvr7b4cukk.streamlit.app/
+📓 **Notebook:** [Course_Completion_Analysis.ipynb](Course_Completion_Analysis.ipynb)
 
 ---
 
